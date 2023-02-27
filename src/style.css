@@ -1,0 +1,21 @@
+body{
+    background-color:#eee;
+}
+
+.border{
+  padding: 60px;
+}
+
+.ans {
+  margin-left: 36px !important;
+}
+
+.btn:focus {
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.btn:active {
+  outline: 0 !important;
+  box-shadow: none !important;
+}
